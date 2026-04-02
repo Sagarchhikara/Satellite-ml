@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+rasterio
+numpy
+pytest
+pytest-asyncio
+httpx
+python-multipart
