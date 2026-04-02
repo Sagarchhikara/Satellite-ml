@@ -1,0 +1,3 @@
+master
+origin	https://github.com/Sagarchhikara/Satellite-ml.git (fetch)
+origin	https://github.com/Sagarchhikara/Satellite-ml.git (push)

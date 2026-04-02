@@ -1,0 +1,12 @@
+/home/sagarchhikara/Satellite-ml
+/home/sagarchhikara/Satellite-ml/satellite_project
+/home/sagarchhikara/Satellite-ml/satellite_project/requirements.txt
+/home/sagarchhikara/Satellite-ml/satellite_project/utils.py
+/home/sagarchhikara/Satellite-ml/satellite_project/ndvi.py
+/home/sagarchhikara/Satellite-ml/satellite_project/main.py
+/home/sagarchhikara/Satellite-ml/satellite_project/create_dummy_tif.py
+/home/sagarchhikara/Satellite-ml/satellite_project/tests
+/home/sagarchhikara/Satellite-ml/satellite_project/test_tile.tif
+/home/sagarchhikara/Satellite-ml/satellite_project/__pycache__
+/home/sagarchhikara/Satellite-ml/satellite_project/pytest.ini
+/home/sagarchhikara/Satellite-ml/file_list.txt
